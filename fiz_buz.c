@@ -3,11 +3,15 @@
 /*                                                        :::      ::::::::   */
 /*   fiz_buz.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: tsekiguc <tsekiguc@student.42tokyo.jp>     +#+  +:+       +#+        */
+/*   By: yjimpei <yjimpei@student.42tokyo.jp>       +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/10 18:32:19 by tsekiguc          #+#    #+#             */
-/*   Updated: 2022/02/10 18:32:20 by tsekiguc         ###   ########.fr       */
+/*   Updated: 2022/02/10 18:37:45 by yjimpei          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 
+int	main(void)
+{
+	return (0);
+}
